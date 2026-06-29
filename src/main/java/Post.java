@@ -5,7 +5,7 @@ public class Post {
     public String phone; // поле для номера телефона
     public String surname; // поле для эмейла
     public boolean subscription; // поле для подписки
-   public FormDate birthdate; // поде ДР
+    public FormDate birthdate; // поде ДР
 
 
 }
